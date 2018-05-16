@@ -7,7 +7,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Finding Aid', folder: 'pages', file: 'about.html'}
-- {name: 'Posts', folder: 'pages', file: 'posts.html'}
+#- {name: 'Posts', folder: 'pages', file: 'posts.html'}
 - {name: 'Works Cited', folder: 'pages', file: 'facts.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 
